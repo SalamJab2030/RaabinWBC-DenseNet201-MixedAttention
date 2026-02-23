@@ -26,7 +26,8 @@ Neutrophil/
 ```bash
 pip install -r requirements.txt
 
-Training
+## Training
+
 python train.py --data_dir "/path/to/Raabin-WBC"
 
 Outputs are saved in:
