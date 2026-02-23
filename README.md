@@ -25,3 +25,14 @@ Neutrophil/
 
 ```bash
 pip install -r requirements.txt
+
+Training
+python train.py --data_dir "/path/to/Raabin-WBC"
+
+Outputs are saved in:
+
+outputs/
+  ├── best_model.keras
+  ├── training_log.csv
+  ├── splits/
+  └── figures/
