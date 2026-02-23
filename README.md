@@ -1,4 +1,4 @@
-# RaabinWBC-DenseNet201-MixedAttention
+# Refining DenseNet201 with Mixed Attention for High-Precision White Blood Cell Classification
 
 > DenseNet201 with mixed spatial–channel attention for white blood cell classification on the Raabin-WBC dataset.
 
